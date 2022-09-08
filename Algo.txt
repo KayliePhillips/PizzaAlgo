@@ -1,3 +1,6 @@
 1. Figure out where to eat.
+    1a.  Let's get pizza
+    1b.  Do you want Dominos or Pizza Hut?
+        1c.  I vote Dominos! 
 2. Figure out what to order
 3. Place the order for pizza.  
